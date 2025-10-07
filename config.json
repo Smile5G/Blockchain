@@ -1,0 +1,9 @@
+
+    {
+        "transaction_nonce": 0,
+        "max_connection_number": 8,
+        "standart_port": 6767,
+        "block_package_size":20,
+        "chain_path" : "Blocks.json",
+        "peers_path": "listofpeers.json"
+    }
